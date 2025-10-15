@@ -1,3 +1,5 @@
 # tpokemon
 
-use game.py to  run
+A CLI pokemon game in early stages.
+
+use game.py to  run via terminal
